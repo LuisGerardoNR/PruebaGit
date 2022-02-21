@@ -15,7 +15,7 @@ public class ProyectoGit {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo!");
-        System.out.println("Hola gerardo como esta ☻♥");
+        System.out.println("Hola a todos soy un humano :3");
         //Agrega tus cambios depues de este comentario
     }
     
